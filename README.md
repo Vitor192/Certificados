@@ -14,6 +14,8 @@ Reserved repository to list a little of my `academic life.`:heart_eyes:
 Cursos✏️
 Abaixo está uma lista dos cursos que concluí. Atualmente, existem 46cursos com um total de 200 hours.
 
+- ## Estácio, Engenharia de Software, 2/8 <a name="certification"></a> :star:
+
 - [DIO](https://www.dio.me/)DIO Bootcamps: Free Education and Employability Together! :paperclip: [here](https://hermes.dio.me/certificates/1TUAPLB3.pdf)
 - [DIO](https://www.dio.me/)Introduction to the Java Platform [here](https://hermes.dio.me/certificates/ENQTVRL2.pdf)
 - [DIO](https://www.dio.me/)Code Versioning with Git and GitHub [here](https://hermes.dio.me/certificates/G2LOGGIE.pdf)
