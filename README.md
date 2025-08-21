@@ -2,6 +2,8 @@
 
 Reserved repository to list a little of my `academic life.`:heart_eyes:
 
+Engenharia de Sofware 2/8
+
 
 ## Index :pushpin:
 - [Academic Education](#education)
